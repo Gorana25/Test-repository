@@ -1,0 +1,4 @@
+@startuml
+Alex->Miles:Hello my friend
+Miles->Alex:Hello, how are you?
+@enduml
